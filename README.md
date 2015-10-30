@@ -52,6 +52,7 @@ Features
 * ✓ __neoscrypt__ (UFO, Feathercoin)
 * ✓ __Blake_(Blakecoin [BLC])
 * ✓ __Groestl_(Myriadcoin)
+* ✓ __Yescrypt
 
 May be working (needs additional testing):
 * ? *Fugue* (Fuguecoin [FC])
