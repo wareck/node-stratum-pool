@@ -37,7 +37,7 @@ Features
 * Vardiff (variable difficulty / share limiter)
 * When started with a coin deamon that hasn't finished syncing to the network it shows the blockchain download progress and initializes once synced
 
-#### Hashing algorithms supported:
+#### Hashing algorithms supported (tested):
 * ✓ __SHA256__ (Bitcoin, Freicoin, Peercoin/PPCoin, Terracoin, etc..)
 * ✓ __Scrypt__ (Litecoin, Dogecoin, Feathercoin, etc..)
 * ✓ __Scrypt-Jane__ (YaCoin, CopperBars, Pennies, Tickets, etc..)
@@ -49,16 +49,16 @@ Features
 * ✓ __Keccak__ (Maxcoin [MAX], HelixCoin, CryptoMeth, Galleon, 365coin, Slothcoin, BitcointalkCoin)
 * ✓ __Skein__ (Skeincoin [SKC])
 * ✓ __Groestl__ (Groestlcoin [GRS])
+* ✓ __neoscrypt__ (UFO, Feathercoin)
+* ✓ __Blake_(Blakecoin [BLC])
+* ✓ __Groestl_(Myriadcoin)
 
 May be working (needs additional testing):
-* ? *Blake* (Blakecoin [BLC])
 * ? *Fugue* (Fuguecoin [FC])
 * ? *Qubit* (Qubitcoin [Q2C], Myriadcoin [MYR])
 * ? *SHAvite-3* (INKcoin [INK])
-* ? *Sha1* (Sha1coin [SHA], Yaycoin [YAY])
 
 Not working currently:
-* *Groestl* - for Myriadcoin
 * *Keccak* - for eCoin & Copperlark
 * *Hefty1* (Heavycoin [HVC])
 
