@@ -12,7 +12,8 @@
         "litecoin",
         "scrypt",
         "neoscrypt",
-		"yescrypt"
+		"yescrypt",
+        "lyra2rev2"
     ],
     "homepage": "https://github.com/wareck/node-stratum-pool",
     "bugs": {

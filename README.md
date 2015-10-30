@@ -53,6 +53,8 @@ Features
 * ✓ __Blake_(Blakecoin [BLC])
 * ✓ __Groestl_(Myriadcoin)
 * ✓ __Yescrypt
+* ✓ __lyra2
+* ✓ __lyra2rev2
 
 May be working (needs additional testing):
 * ? *Fugue* (Fuguecoin [FC])
