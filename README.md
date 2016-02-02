@@ -50,18 +50,22 @@ Features
 * ✓ __Skein__ (Skeincoin [SKC])
 * ✓ __Groestl__ (Groestlcoin [GRS])
 * ✓ __neoscrypt__ (UFO, Feathercoin)
-* ✓ __Blake_(Blakecoin [BLC])
-* ✓ __Groestl_(Myriadcoin)
-* ✓ __Yescrypt
-* ✓ __lyra2
-* ✓ __lyra2rev2
+* ✓ __Blake__(Blakecoin [BLC])
+* ✓ __Groestl__(Myriadcoin)
+* ✓ __Yescrypt__ (unitus)
+* ✓ __Groestl__ (Groestlcoin [GRS])
+* ✓ __Lyra2RE__ (Lyrabar, Crypto [LYB, CTO])
+* ✓ __Lyra2RE v2__ (Vertcoin [VTC])
 
 May be working (needs additional testing):
+* ? *WhirlpoolX* [VNL]
 * ? *Fugue* (Fuguecoin [FC])
 * ? *Qubit* (Qubitcoin [Q2C], Myriadcoin [MYR])
 * ? *SHAvite-3* (INKcoin [INK])
+* ? *Sha1* (Sha1coin [SHA], Yaycoin [YAY])
 
 Not working currently:
+* *Groestl* - for Myriadcoin
 * *Keccak* - for eCoin & Copperlark
 * *Hefty1* (Heavycoin [HVC])
 
@@ -361,7 +365,7 @@ Credits
 * [viperaus](//github.com/viperaus/stratum-mining) - scrypt adaptions to python code
 * [ahmedbodi](//github.com/ahmedbodi/stratum-mining) - more algo adaptions to python code
 * [steveshit](//github.com/steveshit) - ported X11 hashing algo from python to node module
-
+* [upgradeadvice](//github.com/upgradeadvice) - Lyra2RE v2 hashing algo
 
 Donations
 ---------
