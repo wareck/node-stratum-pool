@@ -13,7 +13,13 @@
         "scrypt",
         "neoscrypt",
 		"yescrypt",
-        "lyra2rev2"
+		"lyra2re",
+        "lyra2rev2",
+		"blake",
+		"x11",
+		"x13",
+		"x14",
+		"x15"
     ],
     "homepage": "https://github.com/wareck/node-stratum-pool",
     "bugs": {
