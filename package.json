@@ -40,7 +40,8 @@
         "multi-hashing": "git://github.com/wareck/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
-        "async": "*"
+        "async": "*",
+        "redis": "*"
     },
     "engines": {
         "node": ">=0.10"
